@@ -17,6 +17,7 @@
 # Scalable web application on OpenShift
 
 > This repository is a companion code sample for a [solution tutorial](https://cloud.ibm.com/docs/solution-tutorials?topic=solution-tutorials-scalable-webapp-openshift)
+<br />
 > This repository is based on this [sample application](https://github.com/IBM-Cloud/openshift-node-app)
 
 This sample application is used to deploy an application to Openshift. It was created as part of Tec Summit 2022 and is used in the IBM Cloud Satellite Workshop. 
