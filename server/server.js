@@ -34,6 +34,7 @@ app.listen(port, () => {
 // error handler for unmatched routes or api calls
 app.use((req, res, next) => {
   res.sendFile(path.join(__dirname, '../public', '404.html'));
+  console.log(`Request ${req}`);
 });
 
 module.exports = app;
